@@ -123,5 +123,22 @@ body {
   margin: 3px 0 10px;
 }
 
+span.contrib-number {
+  color: wheat;
+}
+
+.calendar {
+  width: 100%;
+  margin-bottom: 30px;
+  background: #151513;
+  color: white;
+  border: none;
+  box-shadow: 0 1px 6px -2px #000;
+}
+
+.calendar a {
+  color: #62a1ff;
+}
+
 
 
